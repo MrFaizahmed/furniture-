@@ -146,8 +146,8 @@ section{
     align-items: center;
     justify-content: center;
     padding: 2rem 7%;
-    background: #fff;
-    position: relative;
+    background: #969393;
+    position: fixed;
 }
 
 .header-main.active{
